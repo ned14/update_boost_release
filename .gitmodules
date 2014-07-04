@@ -1,0 +1,3 @@
+[submodule "boost-release"]
+	path = boost-release
+	url = git@github.com:ned14/boost-release.git
